@@ -28,7 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes![peakpx](https://user-images.githubusercontent.com/63894725/143909873-76dcadcf-d302-42e8-9e90-c542db2c6f9b.jpg)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arp-haxad/arp-haxad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
