@@ -1,4 +1,4 @@
-## Welcome to Hare Krishna This site has been move to [link](https://arp-haxad.github.io/fast-page/).
+## Welcome, This site has been moved to [link](https://arp-haxad.github.io/fast-page/).
 
 <!-- You can use the [editor on GitHub](https://github.com/arp-haxad/arp-haxad.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
