@@ -30,7 +30,8 @@ Pronunciation of mantra in IPA (Sanskrit):
 
 
 
-### Hare Krishna[peakpx](https://user-images.githubusercontent.com/63894725/143909873-76dcadcf-d302-42e8-9e90-c542db2c6f9b.jpg)
+### Hare Krishna[peakpx]
+[image](https://user-images.githubusercontent.com/63894725/143909873-76dcadcf-d302-42e8-9e90-c542db2c6f9b.jpg)
 
 
 ### Support or Contact
