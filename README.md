@@ -27,6 +27,7 @@ Pronunciation of mantra in IPA (Sanskrit):
     kr̩ʂɳɐ kr̩ʂɳɐ ɦɐreː ɦɐreː
     ɦɐreː raːmɐ ɦɐreː raːmɐ
     raːmɐ raːmɐ ɦɐreː ɦɐreː
+![peakpx](https://user-images.githubusercontent.com/63894725/144091422-d692d6ee-e826-4ded-9598-7f5cd79a3e2e.jpg)
 
 
 
