@@ -14,7 +14,7 @@ The actual mantra in the Upanishad is as follows:[1][5]
     — Kali-Saṇṭāraṇa Upaniṣad
 
 When Sri Krishna Chaitanya Mahaprabhu promulgated the Mahamantra, it was rendered with Krishna's name's first.
-[Course+notes_inferential+statistics_1.pdf](https://github.com/arp-haxad/arp-haxad.github.io/files/7627110/Course%2Bnotes_inferential%2Bstatistics_1.pdf)
+
 
     Hare Kṛṣṇa Hare Kṛṣṇa
     Kṛṣṇa Kṛṣṇa Hare Hare
